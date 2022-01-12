@@ -1,2 +1,2 @@
-# Machine-Learnning-Codebase
-This repo contains my personal codebase for Machine Learning.
+# Deep-Learnning-Codebase
+This repo contains my personal codebase for Deep Learning.
