@@ -1,4 +1,4 @@
-# Deep-Learnning-Codebase
+# Deep-Learning-Codebase
 This repo contains my personal codebase for Deep Learning.
 Mainly following the order of [d2l](https://zh-v2.d2l.ai/index.html) and other blogs
 
